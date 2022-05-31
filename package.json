@@ -1,0 +1,17 @@
+{
+	"name": "e2e-demo",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "playwright test"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"@playwright/test": "^1.19.2",
+		"playwright": "^1.19.2",
+		"ts-node": "^10.7.0",
+		"typescript": "^4.6.2"
+	}
+}
